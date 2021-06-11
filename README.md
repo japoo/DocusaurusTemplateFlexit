@@ -1,2 +1,2 @@
-# DocusaurusTemplateFlexit
-Updated Custom.CSS from Flexit
+# A Jorsek template for Docusaurus
+
