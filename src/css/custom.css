@@ -37,7 +37,7 @@ blockquote {
   background-color: #f7f7f7;
 }
 
-.note.note_note {
+note {
   border-left-color: var(--ifm-color-primary);
   background-color: #f7f7f7;
 }
